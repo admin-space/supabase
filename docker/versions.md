@@ -1,5 +1,8 @@
 # Docker Image Versions
 
+## 2026-04-05
+- supabase/realtime:v2.76.6 (prev supabase/realtime:v2.76.5)
+
 ## 2025-03-16
 - supabase/studio:2026.03.16-sha-5528817 (prev supabase/studio:2026.02.16-sha-26c615c)
 - kong/kong:3.9.1 (prev kong:2.8.1)
