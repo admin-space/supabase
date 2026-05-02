@@ -13,9 +13,6 @@ Check updates for each service to learn more.
 
 ## Unreleased
 
-### Realtime
-- Updated to `v2.76.6` - [Release](https://github.com/supabase/realtime/releases/tag/v2.76.6)
-
 ---
 
 ## [2026-03-16]
